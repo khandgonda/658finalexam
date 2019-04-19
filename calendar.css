@@ -1,4 +1,25 @@
-
 #calendarTable {
-    border: 1px solid black;
+  border: 1px solid black;
+  padding: 10px 0;
+  background: #eee;
+}
+#days {
+  background: brown;
+}
+
+#week1 {
+  background: yellow;
+  border: 1px solid black;
+}
+#week2 {
+  background: yellow;
+  border: 1px solid black;
+}
+#week3 {
+  background: yellow;
+  border: 1px solid black;
+}
+#week4 {
+  background: yellow;
+  border: 1px solid black;
 }
