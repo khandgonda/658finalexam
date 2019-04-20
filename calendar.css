@@ -7,19 +7,34 @@
   background: brown;
 }
 
-#week1 {
+#week0 td {
   background: yellow;
   border: 1px solid black;
 }
-#week2 {
+
+#week1 td {
   background: yellow;
   border: 1px solid black;
 }
-#week3 {
+#week2 td {
   background: yellow;
   border: 1px solid black;
 }
-#week4 {
+#week3 td {
   background: yellow;
   border: 1px solid black;
+}
+#week4 td {
+  background: yellow;
+  border: 1px solid black;
+}
+#week5 td {
+  background: yellow;
+  border: 1px solid black;
+}
+
+#monthHeader,
+#yearHeader {
+  font-size: 26px;
+  font-weight: bold;
 }
